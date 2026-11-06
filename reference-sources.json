@@ -1,0 +1,10 @@
+{
+  "prepare.py": {
+    "url": "https://raw.githubusercontent.com/hdrsd/gen5-emulator-stinger/c3346d9eb2b53b8f9b0876bc1e6b974e4e18a65e/prepare.py",
+    "sha256": "3f34adbbb4a840722094f6c2572013ef570f300b102cf4db0a3d165dda434af8"
+  },
+  "common.py": {
+    "url": "https://raw.githubusercontent.com/hdrsd/gen5-emulator-stinger/c3346d9eb2b53b8f9b0876bc1e6b974e4e18a65e/common.py",
+    "sha256": "6e7e0d154aea5719d4bbbd902a3c1100ad272ab66116c90eb55625d014236051"
+  }
+}
